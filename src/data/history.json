@@ -1,0 +1,29 @@
+[
+  {
+    "role": "Associate MIS Analyst",
+    "organisation": "Truckee Meadows Water Authority",
+    "startDate": "July, 2023",
+    "endDate": "Present",
+    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "imageSrc": "history/google.png"
+  },
+  {
+    "role": "Technical Support Engineer",
+    "organisation": "Coupa Software",
+    "startDate": "Nov, 2022",
+    "endDate": "Jul, 2023",
+    "experiences": ["Gather database information through phpMyAdmin using SQL queries.","Pull logs and run scripts using Kibana and Ruby on Rails.","Utilize Salesforce and Jira for effective ticket tracking and issue documentation.","Test APIs in Postman to troubleshoot customer issues."],
+    "imageSrc": "history/coupa.png"
+  },
+  {
+    "role": "Technical Support Specialist",
+    "organisation": "Clear Capital",
+    "startDate": "Mar, 2022",
+    "endDate": "Nov, 2022",
+    "experiences": [
+      "Developed a website to help with work as well as a chrome extension that automatically fills up required information for Zendesk Ticket",
+      "Worked with Real Estate agents in troubleshooting and navigating the app called ClearInsight"
+    ],
+    "imageSrc": "history/clearcapital.png"
+  }
+]

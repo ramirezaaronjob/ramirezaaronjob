@@ -1,0 +1,17 @@
+  [
+    {
+      "title": "Sponsored Project: Project Rocky Road",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a web app that guides users to the optimal route using Computer Vision and Machine Learning for enhanced navigation.",
+      "skills": ["React", "Express", "Node", "MongoDB"],
+      "source": "https://github.com/ramirezaaronjob/rockyroad"
+    },
+    {
+      "title": "School Project: Northwest Automotive Program",
+      "imageSrc": "projects/project.png",
+      "description": "Created an application for a fictional car dealership, enabling businesses to manage inventory, view reports, and authenticate users for login/logout.",
+      "skills": ["Python", "MySQL", "Tkinter"],
+      "source": "https://github.com/ramirezaaronjob/NWautomotive"
+    }
+  ]
+
