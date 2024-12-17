@@ -4,7 +4,11 @@
     "organisation": "Truckee Meadows Water Authority",
     "startDate": "July, 2023",
     "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "experiences": ["Created multiple ad-hoc reports using enQuesta data, such as meter reads and work order summaries.",
+   "Created and configured multiple work orders in enQuesta, including WSAP work orders, Snowbird work orders, and other related tasks.",
+    "Developed several work order summaries in Cognos.",
+    "Troubleshooted and resolved multiple issues in enQuesta to ensure smooth operations."
+    ],
     "imageSrc": "history/google.png"
   },
   {
